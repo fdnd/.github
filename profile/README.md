@@ -4,7 +4,7 @@ We're a team of faculty at the Amsterdam University of Applied Sciences (AUAS) u
 
 ## FDND Organizations
 
-✅ [FDND Task](https://github.com/fdnd-task), our student assignments live  
+✅ [FDND Task](https://github.com/fdnd-task), our student assignments  
 🚧 [FDND Agency](https://github.com/fdnd-agency), our projects for real customers   
 🎨 [FDND Living Styleguides](https://github.com/fdnd-styleguides), our living styleguides    
 🐵 [FDND API's](https://github.com/fdnd-apis), our api's  
